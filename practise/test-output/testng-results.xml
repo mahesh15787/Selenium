@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80240" started-at="2017-05-07T10:31:41Z" finished-at="2017-05-07T10:33:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80240" started-at="2017-05-07T10:31:41Z" finished-at="2017-05-07T10:33:01Z">
+      <class name="testScripts.TC004_search_ExcelData">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testScripts.TC004_search_ExcelData@391a1bb4]" name="beforeClass" is-config="true" duration-ms="11364" started-at="2017-05-07T16:01:41Z" finished-at="2017-05-07T16:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:testScripts.TC004_search_ExcelData@391a1bb4]" name="search" duration-ms="13612" started-at="2017-05-07T16:01:54Z" data-provider="TestData" finished-at="2017-05-07T16:02:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Iphone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:testScripts.TC004_search_ExcelData@391a1bb4]" name="search" duration-ms="11263" started-at="2017-05-07T16:02:08Z" data-provider="TestData" finished-at="2017-05-07T16:02:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Apple]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:testScripts.TC004_search_ExcelData@391a1bb4]" name="search" duration-ms="12466" started-at="2017-05-07T16:02:19Z" data-provider="TestData" finished-at="2017-05-07T16:02:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MacBook]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:testScripts.TC004_search_ExcelData@391a1bb4]" name="search" duration-ms="15680" started-at="2017-05-07T16:02:31Z" data-provider="TestData" finished-at="2017-05-07T16:02:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[watches]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="search(java.lang.String)[pri:0, instance:testScripts.TC004_search_ExcelData@391a1bb4]" name="search" duration-ms="11586" started-at="2017-05-07T16:02:47Z" data-provider="TestData" finished-at="2017-05-07T16:02:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Books]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScripts.TC004_search_ExcelData@391a1bb4]" name="tearDown" is-config="true" duration-ms="2721" started-at="2017-05-07T16:02:59Z" finished-at="2017-05-07T16:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.TC004_search_ExcelData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<suite name="test">
+<listeners>
+	<listener class-name="customListeners.CustomListener"/>
+</listeners>
+<test name="firstTest">
+	<parameter name="searchTerm" value="IPhone"/>
+<classes>
+	<class name="testScripts.TC001_Search"/>
+</classes>
+</test>
+</suite>
